@@ -1,0 +1,6 @@
+{
+  "name": "StahlEuro - Baza Čeličnih Profila i Kalkulator Nosivosti",
+  "description": "Engineering database of steel profiles according to EN, ASTM, DIN, and ISO standards with dynamic material-dependent mechanical properties, Eurocode 3 capacity calculator, PDF report export, trilingual interface (EN/HR/DE), and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
